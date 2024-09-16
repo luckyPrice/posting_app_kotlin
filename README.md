@@ -1,5 +1,5 @@
-[1.요구사항 명세서.pdf](https://github.com/user-attachments/files/17014221/1.pdf)
-[2.UI설계.pdf](https://github.com/user-attachments/files/17014220/2.UI.pdf)
+[1.요구사항 명세서.pdf](https://github.com/user-attachments/files/17014221/1.pdf)  
+[2.UI설계.pdf](https://github.com/user-attachments/files/17014220/2.UI.pdf)  
 [3.테스팅.pdf](https://github.com/user-attachments/files/17014222/3.pdf)
 
 요구사항 명세서
